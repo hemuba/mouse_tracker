@@ -16,7 +16,7 @@ This is a simple Python script that uses `pyautogui` and `tkinter` to display th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tuo-username/nome-repository.git
+git clone https://github.com/hemuba/mouse_tracker
 ```
 
 2. Install the required libraries:
@@ -33,5 +33,4 @@ python mouse_position_tracker.py
 
 The window will display the current mouse position and follow the cursor. Press `ESC` to exit.
 
-## License
-This project is licensed under the MIT License.
+
